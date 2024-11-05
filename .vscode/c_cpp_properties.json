@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/chiba/ros2_ws/install/tutorial_interfaces2/include/**",
+                "/home/chiba/ros2_ws/install/tutorial_interfaces02/include/**",
+                "/home/chiba/ros2_ws/install/tutorial_interfaces/include/**",
+                "/opt/ros/humble/include/**",
+                "/home/chiba/ros2_ws/src/pcd_load/include/**",
+                "/home/chiba/ros2_ws/src/rfl_int_img/include/**",
+                "/home/chiba/ros2_ws/src/rfl_intensity_img/include/**",
+                "/home/chiba/ros2_ws/src/ros2_rs_signal_reco_2023/include/**",
+                "/home/chiba/ros2_ws/src/ros2_rs_signal_reco_test_2023/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_interfaces/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_interfaces02/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_interfaces2/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_launch/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_launch02/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_opencv/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_opencv02/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_opencv_launch/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_package/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_parameter/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_parameter02/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_service/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_service02/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_topic/include/**",
+                "/home/chiba/ros2_ws/src/tutorial_topic02/include/**",
+                "/usr/include/**",
+                "/opt/ros/humble/include/sensor_msgs",
+                "${env:HOME}/ros2_ws/install/",
+                "/home/chiba/ros2_ws/install/ros2_rs_interfaces/include/ros2_rs_interfaces"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,27 @@
+traffic_signal_reco:
+  ros__parameters:
+    MIN_H_RED: 170
+    MAX_H_RED: 180
+    MIN_S_RED: 35
+    MAX_S_RED: 255
+    MIN_V_RED: 40
+    MAX_V_RED: 255
+
+    MIN_H_GREEN: 60
+    MAX_H_GREEN: 95
+    MIN_S_GREEN: 35
+    MAX_S_GREEN: 255
+    MIN_V_GREEN: 40
+    MAX_V_GREEN: 255
+
+    MIN_H_YELLOW: 0
+    MAX_H_YELLOW: 60
+    MIN_S_YELLOW: 40
+    MAX_S_YELLOW: 255
+    MIN_V_YELLOW: 145
+    MAX_V_YELLOW: 255
+
+    IMAGE_ABOVE_RASIO: 0.4
+
+    RED_IMAGE_THRESH: 0
+    GREEN_IMAGE_THRESH: 0

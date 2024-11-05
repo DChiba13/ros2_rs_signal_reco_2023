@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4b6964483e8ce39766df.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ros2_rs_signal_reco_2023",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ros2_rs_signal_reco_2023_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ros2_rs_signal_reco_2023_uninstall-Debug-2cfbc87547e2090b124c.json",
+					"name" : "ros2_rs_signal_reco_2023_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rs_signal_reco_sub::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rs_signal_reco_sub-Debug-9485756754ad3207d8f7.json",
+					"name" : "rs_signal_reco_sub",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-75776529a626749521c8.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/chiba/ros2_ws/src/ros2_rs_signal_reco_2023/build",
+		"source" : "/home/chiba/ros2_ws/src/ros2_rs_signal_reco_2023"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

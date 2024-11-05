@@ -1,0 +1,1 @@
+rclcpp;std_msgs;cv_bridge;sensor_msgs;libopencv-dev;ros2_rs_interfaces;ament_lint_auto;ament_lint_common
